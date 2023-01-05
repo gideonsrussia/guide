@@ -1,6 +1,7 @@
 ---
 title: МЕЖДУНАРОДНЫЙ УРОВЕНЬ
 layout: page
+parent: Рост
 nav_order: 1
 permalink: growth/international
 ---
