@@ -2,6 +2,7 @@
 title: МЕСТНЫЙ УРОВЕНЬ
 layout: page
 nav_order: 3
+permalink: growth/regional
 ---
 
 # МЕСТНЫЙ УРОВЕНЬ.
