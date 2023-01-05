@@ -470,8 +470,8 @@ B Уставе четко зафиксировано, что только пре
 <table>
 <thead>
 <tr>
-<th style="width:95%">Отряд: <input type="text" value="г.Новороссийск"/></th>
-<th style="width:5%">Год: <input type="text" value="2023"/></th>
+<th style="width:90%">Отряд: <input type="text" value="г.Новороссийск" style="margin-left:2em"/></th>
+<th style="width:10%">Год: <input type="text" value="2023" style="margin-left:2em"/></th>
 </tr>
 </thead></table>
 
