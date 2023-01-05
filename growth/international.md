@@ -2,6 +2,7 @@
 title: МЕЖДУНАРОДНЫЙ УРОВЕНЬ
 layout: page
 nav_order: 1
+permalink: growth/international
 ---
 
 # 1. МЕЖДУНАРОДНЫЙ УРОВЕНЬ.
