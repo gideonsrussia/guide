@@ -5,6 +5,7 @@ theme: just-the-docs
 
 url: https://gideonsrussia.github.io/guide
 
+baseurl: /guide #/notes # the subpath of your site, e.g. /blog
 logo: "/assets/images/tgi.svg"
 
 # Color scheme supports "light" (default) and "dark"
