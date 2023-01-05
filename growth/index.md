@@ -18,6 +18,6 @@ permalink: growth
 2. [Национальном][2]
 3. [Местном][3]
 
-[1]: ./international/
-[2]: ./national/
-[3]: ./regional/
+[1]: ./international
+[2]: ./national
+[3]: ./regional
