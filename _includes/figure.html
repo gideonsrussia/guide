@@ -1,4 +1,4 @@
-<figure style="width:max-content"{% if include.class %} class="{{ include.class }}"{% endif %}>
+<figure style="display:table;margin:0 auto"{% if include.class %} class="{{ include.class }}"{% endif %}>
    <img src="{{ include.url | default: "/assets/images/founders.jpg" | relative_url }}"{% if include.width %} width="{{ include.width }}"{% endif %}{% if include.height %} height="{{ include.height }}"{% endif %}{% if include.title %} alt="{{ include.title }}" title="{{ include.title }}"{% endif %}/>
-   {% if include.title %}{% if include.caption != false %}<figcaption style="margin: 0 auto;">{{ include.title }}</figcaption>{% endif %}{% endif %}
+   {% if include.title %}{% if include.caption != false %}<figcaption>{{ include.title }}</figcaption>{% endif %}{% endif %}
 </figure>
