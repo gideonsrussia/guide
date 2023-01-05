@@ -1,6 +1,7 @@
 ---
 title: Цель
 layout: page
+nav_order: 2
 ---
 
 # Цель
