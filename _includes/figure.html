@@ -1,4 +1,4 @@
-<figure {%- if include.class %} class="{{ include.class }}"{% endif -%} style="width:max-content">
-   <img src="{{ include.url | default: "/assets/images/founders.jpg" | relative_url }}" {%- if include.width %} width="{{ include.width }}"{% endif -%}{%- if include.height %} height="{{ include.height }}"{% endif -%}{%- if include.title %} alt="{{ include.title }}" title="{{ include.title }}"{%- endif -%} />
-   {%- if include.title %}{%- if include.caption != false %}<figcaption style="margin: 0 auto;">{{ include.title }}</figcaption>{% endif -%}{% endif -%}
+<figure style="width:max-content"{% if include.class %} class="{{ include.class }}"{% endif %}>
+   <img src="{{ include.url | default: "/assets/images/founders.jpg" | relative_url }}"{% if include.width %} width="{{ include.width }}"{% endif %}{% if include.height %} height="{{ include.height }}"{% endif %}{% if include.title %} alt="{{ include.title }}" title="{{ include.title }}"{% endif %}/>
+   {% if include.title %}{% if include.caption != false %}<figcaption style="margin: 0 auto;">{{ include.title }}</figcaption>{% endif %}{% endif %}
 </figure>
