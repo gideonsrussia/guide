@@ -2,6 +2,7 @@
 title: НАЦИОНАЛЬНЫЙ УРОВЕНЬ
 layout: page
 nav_order: 2
+permalink: growth/national
 ---
 
 # НАЦИОНАЛЬНЫЙ УРОВЕНЬ
