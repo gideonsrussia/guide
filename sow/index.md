@@ -1,3 +1,8 @@
+---
+title: Сеется семя
+layout: page
+nav_order: 5
+---
 
 # Сеется семя
 
