@@ -470,8 +470,8 @@ B Уставе четко зафиксировано, что только пре
 <table>
 <thead>
 <tr>
-<th style="width:90%">Отряд: <input type="text" value="г.Новороссийск" style="margin-left:2em"/></th>
-<th style="width:10%">Год: <input type="text" value="2023" style="margin-left:2em"/></th>
+<th style="width:90%">Отряд: <input type="text" value="г.Новороссийск" size="15" style="margin-left:1em"/></th>
+<th style="width:10%">Год: <input type="text" value="2023" size="5" style="margin-left:1em"/></th>
 </tr>
 </thead></table>
 
@@ -487,42 +487,42 @@ B Уставе четко зафиксировано, что только пре
 <th>1</th>
 <td>Средства на приобретение Писаний для отряда
 (личная евангелизация)</td>
-<td><input type="text" value="30000"/></td>
+<td><input type="text" value="30000" size="5"/></td>
 </tr>
   <tr>
 <th>2</th>
 <td>Количество церковных служений, планируемое
 для посещения отрядом</td>
-<td><input type="text" value="20"/></td>
+<td><input type="text" value="20" size="5"/></td>
 </tr>
 <tr>
 <th>3</th>
 <td>Планируемые пожертвования во время церковных
 богослужений, из расчета: сумма сбора
 в одной церкви (примерно) × ЦЕЛЬ №2</td>
-<td><input type="text" value="60000"/></td>
+<td><input type="text" value="60000" size="5"/></td>
 </tr>
 <tr>
 <th>4</th>
 <td>Личные пожертвования Гедеонов (примерно)</td>
-<td><input type="text" value="30000"/></td>
+<td><input type="text" value="30000" size="5"/></td>
 </tr>
 <tr>
 <th>5</th>
 <td>Предполагаемое количество Священных Писаний
 для распространения
 (исходя из возможных средств)</td>
-<td><input type="text" value="3000"/></td>
+<td><input type="text" value="3000" size="5"/></td>
 </tr>
 <tr>
 <th>6</th>
 <td>Новые члены отряда</td>
-<td><input type="text" value="4"/></td>
+<td><input type="text" value="4" size="5"/></td>
 </tr>
 <tr>
 <th>7</th>
 <td>Новые члены Вспомогательного корпуса</td>
-<td><input type="text" value="2"/></td>
+<td><input type="text" value="2" size="5"/></td>
 </tr>
 </tbody></table>
 
