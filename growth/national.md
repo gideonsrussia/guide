@@ -1,6 +1,7 @@
 ---
 title: НАЦИОНАЛЬНЫЙ УРОВЕНЬ
 layout: page
+parent: Рост
 nav_order: 2
 permalink: growth/national
 ---
