@@ -4,6 +4,9 @@ theme: just-the-docs
 
 url: https://gideonsrussia.github.io/guide/
 
+# Color scheme supports "light" (default) and "dark"
+color_scheme: dark
+
 aux_links:
   "Официальный сайт": https://gideons.ru
 
