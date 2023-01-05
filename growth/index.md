@@ -14,10 +14,11 @@ permalink: growth
 > тем больших результатов мы достигаем.**
 
 Наше служение должно расти на трех уровнях:
-1. [Международном][1]
-2. [Национальном][2]
-3. [Местном][3]
 
-[1]: ./international
-[2]: ./national
-[3]: ./regional
+1. **[Международном][1]**
+2. **[Национальном][2]**
+3. **[Местном][3]**
+
+[1]: {{ "growth/international" | relative_url }}
+[2]: {{ "growth/national" | relative_url }}
+[3]: {{ "growth/regional" | relative_url }}
