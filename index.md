@@ -56,20 +56,7 @@ layout: home
 
 ## СОДЕРЖАНИЕ
 
-|№   | Заголовок                                                              | Страница |
-|:--:| :----------------------------------------------------------------------| -------: |
-|I   | Цель                                                                   |        5 |
-|II  | Рост                                                                   |        7 |
-|III | Подготовка — вооружаясь к битве                                        |       13 |
-|IV  | «Сеется Семя»                                                          |       21 |
-|V   | Вклад в распространение Слова Божьего                                  |       25 |
-|VI  | Важные принципы                                                        |       35 |
-|VII | Дисциплинарный устав                                                   |       41 |
-|VIII| Образцы форм                                                           |       49 |
-|    | Форма 320 «Международное служение»                                     |       51 |
-|    | Форма 903 для заказа Библий и отчетности                               |       53 |
-|    | Форма 904 «Отчет о взносах на Международное евангелизационное служение»|       55 |
-|    | Форма 1501 «Образец анкеты для вступления в члены «Гедеон»             |       57 |
+<table> <thead> <tr> <th style="width:4em;text-align: center">№</th> <th style="text-align: center">Заголовок</th> <th style="width:4em;text-align: center">Стр.</th> </tr> </thead> <tbody> <tr> <td style="text-align: center">I</td> <td style="text-align: left">Цель</td> <td style="text-align: center">5</td> </tr> <tr> <td style="text-align: center">II</td> <td style="text-align: left">Рост</td> <td style="text-align: center">7</td> </tr> <tr> <td style="text-align: center">III</td> <td style="text-align: left">Подготовка — вооружаясь к битве</td> <td style="text-align: center">13</td> </tr> <tr> <td style="text-align: center">IV</td> <td style="text-align: left">«Сеется Семя»</td> <td style="text-align: center">21</td> </tr> <tr> <td style="text-align: center">V</td> <td style="text-align: left">Вклад в распространение Слова Божьего</td> <td style="text-align: center">25</td> </tr> <tr> <td style="text-align: center">VI</td> <td style="text-align: left">Важные принципы</td> <td style="text-align: center">35</td> </tr> <tr> <td style="text-align: center">VII</td> <td style="text-align: left">Дисциплинарный устав</td> <td style="text-align: center">41</td> </tr> <tr> <td style="text-align: center">VIII</td> <td style="text-align: left">Образцы форм</td> <td style="text-align: center">49</td> </tr> <tr> <td style="text-align: center">&nbsp;</td> <td style="text-align: left">Форма 320 «Международное служение»</td> <td style="text-align: center">51</td> </tr> <tr> <td style="text-align: center">&nbsp;</td> <td style="text-align: left">Форма 903 для заказа Библий и отчетности</td> <td style="text-align: center">53</td> </tr> <tr> <td style="text-align: center">&nbsp;</td> <td style="text-align: left">Форма 904 «Отчет о взносах на Международное евангелизационное служение»</td> <td style="text-align: center">55</td> </tr> <tr> <td style="text-align: center">&nbsp;</td> <td style="text-align: left">Форма 1501 «Образец анкеты для вступления в члены «Гедеон»</td> <td style="text-align: center">57</td> </tr> </tbody> </table>
 
 ## Цель
 
