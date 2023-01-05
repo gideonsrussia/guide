@@ -444,7 +444,7 @@ B Уставе четко зафиксировано, что только пре
 чтобы координировать руководство деятельностью отряда. На таком собрании
 рассматривается большинство текущих дел, включая дискуссионные вопросы. Рекомендуется
 следующая повестка дня:
-1. Молитва и чтение Священного Писания - капеллан
+1. Молитва и чтение Священного Писания — капеллан
 2. Протокол — секретарь
 3. Отчет казначея
 4. Доклад комитета об осуществлении программ
@@ -467,11 +467,15 @@ B Уставе четко зафиксировано, что только пре
 
 #### **Планирование целей на год**
 
-|Отряд | Год|
-|:-----|---:|
-|      |    |
+<table>
+<thead>
+<tr>
+<th style="width:95%">Отряд: <input type="text" value="г.Новороссийск"/></th>
+<th style="width:5%">Год: <input type="text" value="2023"/></th>
+</tr>
+</thead></table>
 
-<table class="bordered" style="width:70%">
+<table>
 <thead>
 <tr>
 <th style="width:3%">№</th>
@@ -483,81 +487,44 @@ B Уставе четко зафиксировано, что только пре
 <th>1</th>
 <td>Средства на приобретение Писаний для отряда
 (личная евангелизация)</td>
-<td></td>
+<td><input type="text" value="30000"/></td>
 </tr>
   <tr>
 <th>2</th>
 <td>Количество церковных служений, планируемое
 для посещения отрядом</td>
-<td></td>
+<td><input type="text" value="20"/></td>
 </tr>
 <tr>
 <th>3</th>
 <td>Планируемые пожертвования во время церковных
 богослужений, из расчета: сумма сбора
 в одной церкви (примерно) × ЦЕЛЬ №2</td>
-<td></td>
+<td><input type="text" value="60000"/></td>
 </tr>
 <tr>
 <th>4</th>
 <td>Личные пожертвования Гедеонов (примерно)</td>
-<td></td>
+<td><input type="text" value="30000"/></td>
 </tr>
 <tr>
 <th>5</th>
 <td>Предполагаемое количество Священных Писаний
 для распространения
 (исходя из возможных средств)</td>
-<td></td>
+<td><input type="text" value="3000"/></td>
 </tr>
 <tr>
 <th>6</th>
 <td>Новые члены отряда</td>
-<td></td>
+<td><input type="text" value="4"/></td>
 </tr>
 <tr>
 <th>7</th>
 <td>Новые члены Вспомогательного корпуса</td>
-<td></td>
+<td><input type="text" value="2"/></td>
 </tr>
 </tbody></table>
-
-<style>
-  table.bordered, table.bordered th, table.bordered td {
-    border: 1px solid black;
-    border-collapse: collapse;
-}
-  .bordered th, .bordered td {
-    text-align: center; 
-    vertical-align: middle;
-    padding: 1em;
-}
-table.bordered.narrow td {
-  padding: .4em;
-}
-  .bordered th pre, .bordered td pre {
-    text-align: left;
-    padding-left: 2em;
-}
-  
-table .fillgrey {
-  background-color: #dddddd;
-}
-
-table.bordered td.rotated {
-  writing-mode: vertical-lr;
-  transform: scale(-1, -1);
-}
-  
-  table.square {
-    width: 11em;
-    }
-  
-  table.square tbody td{
-    width: 2em;
-    height: 2em;
-  }
-</style>
 
 Эту форму необходимо заполнять ежегодно, до 1-го июля. 1-го июня каждого года отряд
 должен пересматривать свои цели и оценивать возможность достижения каждой
