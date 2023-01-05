@@ -22,4 +22,4 @@ defaults:
     scope:
       path: ""
     values:
-      image: /assets/img/card.jpg
+      image: /assets/images/card.jpg
