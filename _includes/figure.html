@@ -1,0 +1,6 @@
+<figure{%- unless include.class == empty -%} class="{{ include.class }}"{%- endunless -%}>
+   <a href="{{ include.url | default: "/assets/images/founders.jpg" }}">
+   <img src="{{ include.url | default: "/assets/images/founders.jpg" }}"{%- unless include.width == empty -%} width="{{ include.width }}"{%- endunless -%}{%- unless include.height == empty -%} height="{{ include.height }}"{%- endunless -%}{{ include.width | default: 80 }}"{%- unless include.title == empty -%} alt="{{ include.title }}" title="{{ include.title }}"{%- endunless -%}/>
+   </a>
+   {%- unless include.title == empty -%}{%- if include.caption != false %}<figcaption class="hcenter">{{ include.title }}</figcaption>{% endif %}{%- endunless -%}
+</figure>
