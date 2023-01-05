@@ -14,3 +14,10 @@ aux_links:
   "Официальный сайт": https://gideons.ru
 
 aux_links_new_tab: true
+
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      image: /assets/img/card.jpg
