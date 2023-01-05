@@ -1,12 +1,12 @@
 ---
 title: МЕСТНЫЙ УРОВЕНЬ
 layout: page
+parent: Рост
 nav_order: 3
 permalink: growth/regional
 ---
 
-# МЕСТНЫЙ УРОВЕНЬ.
-
+# МЕСТНЫЙ УРОВЕНЬ
 {: .no_toc }
 
 ## Содержание
