@@ -23,3 +23,5 @@ defaults:
       path: ""
     values:
       image: /assets/images/card.jpg
+
+search_enabled: true
