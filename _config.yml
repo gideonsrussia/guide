@@ -9,6 +9,8 @@ domain: gideonsrussia.github.io
 baseurl: /guide #/notes # the subpath of your site, e.g. /blog
 logo: "/assets/images/tgi.svg"
 
+permalink: /:title/
+
 # Color scheme supports "light" (default) and "dark"
 color_scheme: dark
 
@@ -25,3 +27,5 @@ defaults:
       image: /assets/images/card.jpg
 
 search_enabled: true
+
+footer_content: "«Ибо так возлюбил Бог мир, что отдал Сына Своего Единородного, дабы всякий, верующий в Него, не погиб, но имел жизнь вечную.» —&nbsp;Иоанна&nbsp;3:16<br><img src=\"/guide/assets/images/logo.svg\" style=\"width:50%;max-width:200px;display:block;margin:.5em auto 0\">"
