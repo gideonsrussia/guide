@@ -1,4 +1,4 @@
 <figure style="position: relative"{% if include.class %} class="{{ include.class }}"{% endif %}>
    <img style="width:100%" src="{{ include.url | default: "/assets/images/founders.jpg" | relative_url }}"{% if include.width %} width="{{ include.width }}"{% endif %}{% if include.height %} height="{{ include.height }}"{% endif %}{% if include.title %} alt="{{ include.title }}" title="{{ include.title }}"{% endif %}/>
-   {% if include.title %}{% if include.caption != false %}<figcaption style="position:absolute;bottom:0;left:0;box-sizing:border-box;width:100%;padding:10px;color:white;text-align:center;background:rgba(0, 0, 0, 0.6);">{{ include.title }}</figcaption>{% endif %}{% endif %}
+   {% if include.title %}{% if include.caption != false %}<figcaption style="position:absolute;bottom:0;left:0;box-sizing:border-box;width:100%;padding:10px;color:white;text-align:center;background:rgba(0, 0, 0, 0.6);margin-bottom:7px">{{ include.title }}</figcaption>{% endif %}{% endif %}
 </figure>
