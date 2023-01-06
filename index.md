@@ -8,8 +8,8 @@ nav_order: 1
 
 Ассоциация христианских предпринимателей и профессиональных работников.
 
-{% include figure.html url="/assets/images/founders.jpg" title="Фото основателей «The Gideons International»"
-width="700" height="356" %}
+{% include figure.html url="/assets/images/founders-600x305.jpg" title="Фото основателей «The Gideons International»"
+width="600" height="305" %}
 
 > **Главная Цель: Приводить людей к Господу Иисусу Христу через:**
 
