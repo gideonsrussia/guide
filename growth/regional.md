@@ -6,7 +6,7 @@ nav_order: 3
 permalink: growth/regional
 ---
 
-# Местный уровень
+# {{ page.title }}
 {: .no_toc }
 
 ## Содержание
