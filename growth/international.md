@@ -1,12 +1,12 @@
 ---
-title: МЕЖДУНАРОДНЫЙ УРОВЕНЬ
+title: Международный уровень
 layout: page
 parent: Рост
 nav_order: 1
 permalink: growth/international
 ---
 
-# МЕЖДУНАРОДНЫЙ УРОВЕНЬ
+# {{ page.title }}
 
 Ассоциация «Гедеон» работает по всему миру.
 
