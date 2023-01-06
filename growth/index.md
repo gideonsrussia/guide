@@ -18,7 +18,7 @@ permalink: growth
 
 1. **[{{ "Международном" | upcase }}][1]**
 2. **[{{ "Национальном" | upcase }}][2]**
-3. **[{{ "Региональном" | upcase }}][3]**
+3. **[{{ "Местном" | upcase }}][3]**
 
 [1]: {{ "growth/international" | relative_url }}
 [2]: {{ "growth/national" | relative_url }}
