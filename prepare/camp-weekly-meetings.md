@@ -3,7 +3,7 @@ title: Еженедельное молитвенное собрание
 layout: page
 parent: Подготовка — вооружаясь к битве
 nav_order: 2
-permalink: prepare/weekly-meeting
+permalink: prepare/camp-weekly-meetings
 ---
 
 # {{ page.title }}
