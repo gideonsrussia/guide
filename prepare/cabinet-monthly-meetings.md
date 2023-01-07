@@ -3,7 +3,7 @@ title: Ежемесячное собрание Кабинета отряда
 layout: page
 parent: Подготовка — вооружаясь к битве
 nav_order: 3
-permalink: prepare/cabinet-meeting
+permalink: prepare/cabinet-monthly-meetings
 ---
 
 # {{ page.title }}
