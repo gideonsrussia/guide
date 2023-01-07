@@ -3,7 +3,7 @@ title: Ежемесячное собрание отряда
 layout: page
 parent: Подготовка — вооружаясь к битве
 nav_order: 4
-permalink: prepare/monthly-meeting
+permalink: prepare/camp-monthly-meetings
 ---
 
 # {{ page.title }}
