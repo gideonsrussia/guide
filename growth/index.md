@@ -22,4 +22,4 @@ permalink: growth
 
 [1]: {{ "growth/international" | relative_url }}
 [2]: {{ "growth/national" | relative_url }}
-[3]: {{ "growth/regional" | relative_url }}
+[3]: {{ "growth/camp" | relative_url }}
