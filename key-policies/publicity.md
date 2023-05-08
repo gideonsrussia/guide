@@ -3,7 +3,7 @@ title: Социальные, политические и другие дела, 
 layout: page
 parent: Ключевые принципы
 nav_order: 6
-permalink: key-policies/business
+permalink: key-policies/publicity
 ---
 
 # {{ page.title }}
